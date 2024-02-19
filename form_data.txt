@@ -1,0 +1,30 @@
+Name: Komal
+Password: 123456
+Email: komal@gmail.com
+Address: test street no 123
+-------------------------
+Name: Musab
+Password: 123456
+Email: musab@gmail.com
+Address: R-45, Sector 8 North Karachi
+-------------------------
+Name: test
+Password: admin
+Email: test@gmail.com
+Address: test address
+-------------------------
+Name: wow
+Password: 123546
+Email: wow@gmail.com
+Address: wow address
+-------------------------
+Name: wow
+Password: 123546
+Email: wow@gmail.com
+Address: wow address
+-------------------------
+Name: github
+Password: 123546
+Email: github@gmail.com
+Address: gooogle 
+-------------------------
